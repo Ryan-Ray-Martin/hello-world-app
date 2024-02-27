@@ -49,9 +49,6 @@ function App() {
           >
             React Redux
           </a>
-          <a>
-            Yay!
-          </a>
         </span>
       </header>
     </div>
