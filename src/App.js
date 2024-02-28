@@ -47,7 +47,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            React Redux is awesome!
+            React Redux is ok I guess!
           </a>
         </span>
       </header>
